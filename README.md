@@ -13,9 +13,7 @@ When following  the guidelines you should start with get Started and keep going 
 | Milestone                                           | Timeline  | Action item                        |
 | --------------------------------------------------- | --------- | ---------------------------------- |
 | Getting familiar with OOP and functional Programing | 2 sprints | Research OOP and FP                |
-| Identify blocks of code as OOP and FP               | 2 sprints | Reviewing code and classify        |
-| Practice writing code in your style                 | 2 sprint  | Rewriting code to match your style |
-
+| Reading Find your style books                       | 1 sprint  | Reading resources provided         |
 
 
 # Getting Started
